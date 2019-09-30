@@ -1,3 +1,6 @@
 # hello-template (kotlin)
-telusko
 Rest API using kotlin
+
+source (Telusko):
+https://www.youtube.com/watch?v=QobsDJUGubc
+
